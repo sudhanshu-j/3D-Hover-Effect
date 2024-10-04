@@ -42,13 +42,13 @@ This project showcases a 3D hover effect on images using HTML, CSS, and JavaScri
 
 - To view this project locally:
 
-    - **Clone the repository**:
+    - **Clone the repository**: - 
          git clone https://github.com/your-username/3D-Hover-Effect-Images.git
 
-    - **Navigate to the project folder**:
+    - **Navigate to the project folder**: - 
          cd 3D-Hover-Effect-Images
     
-    - **Open the index.html file in your browser**:
+    - **Open the index.html file in your browser**: - 
           open index.html
 
 ## Customization
